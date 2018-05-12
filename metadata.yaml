@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '41999'
     url: http://www.gutenberg.org/2009/agents/41999
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43050#A-New-History-of-Blue-BeardFor-the-Amusement-of-Little-Lack-Beard-and-his-Pretty-Sisters
 gutenberg_issued: '2013-06-28'
 gutenberg_type: Text
 identifiers:
